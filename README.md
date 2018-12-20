@@ -55,4 +55,4 @@ In the project directory, you can run:
 
 ## Learn More
 
-<img src="demo.png" />
+<img src="demo.PNG" />
